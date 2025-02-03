@@ -14,11 +14,6 @@ jobs:
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             https://api.github.com/repos/Pokecord-Official/Pokecord-Module/contents/src/shop.json \
             -o shop.json
-      - name: Debug file path
-        run: |
-            echo "Current directory: $(pwd)"
-            echo "Listing files:"
-            ls -la
       - name: Run script
         run: node index.js
       - name: Commit Changes

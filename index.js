@@ -3,6 +3,7 @@ const path = require('path')
 const shop = require('./shop.json')
 
 const writeTo = path.join(__dirname, './descriptions')
+if (!fs.existsSync(dir)) fs.mkdirSync(dir)
 try {
     console.log(`⏳ Creating Descriptions...`)
     for (const c in shop) {
