@@ -1,0 +1,12 @@
+{
+    "title": "Weakness Policy",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "If Holder Is Hit Super Effectively, Raises Attack, Sp. Atk By 2 Stages.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958937664589864.png"
+}

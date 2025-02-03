@@ -1,0 +1,11 @@
+{
+    "title": "Focus Band",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder Has A 10% Chance To Survive An Attack That Would KO It With 1 HP.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956007939182684.png"
+}

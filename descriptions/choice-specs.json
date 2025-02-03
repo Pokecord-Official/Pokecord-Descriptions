@@ -1,0 +1,11 @@
+{
+    "title": "Choice Specs",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's Sp. Atk Is 1.5x, But It Can Only Select The First Move It Executes.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955569365975050.png"
+}

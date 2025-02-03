@@ -1,0 +1,11 @@
+{
+    "title": "Power Bracer",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 70
+        }
+    },
+    "desc": "Holder's Speed Is Halved. The Klutz Ability Does Not Ignore This Effect.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958123814289571.png"
+}

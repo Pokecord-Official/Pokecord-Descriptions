@@ -1,0 +1,12 @@
+{
+    "title": "Mirror Herb",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "When An Opposing Pokemon Raises A Stat Stage, The Holder Copies It.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957869954301963.png"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Choice Scarf",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's Speed Is 1.5x, But It Can Only Select The First Move It Executes.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955563237965886.png"
+}

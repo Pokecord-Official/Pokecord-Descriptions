@@ -1,0 +1,12 @@
+{
+    "title": "Psychic Seed",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "If The Terrain Is Psychic Terrain, Raises Holder's Sp. Def By 1 Stage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958196644446339.png"
+}

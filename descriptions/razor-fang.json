@@ -1,0 +1,12 @@
+{
+    "title": "Razor Fang",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30,
+            "volatileStatus": "flinch"
+        }
+    },
+    "desc": "Holder's Attacks Without A Chance To Make The Target Flinch Gain A 10% Chance To Make The Target Flinch. Evolves Gligar Into Gliscor When Held And Leveled Up During The Night.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958280668811416.png"
+}

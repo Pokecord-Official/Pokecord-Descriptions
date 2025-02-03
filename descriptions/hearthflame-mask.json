@@ -1,0 +1,11 @@
+{
+    "title": "Hearthflame Mask",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "Ogerpon-Hearthflame: 1.2x Power Attacks; Terastallize To Gain Embody Aspect.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956210167545888.png"
+}

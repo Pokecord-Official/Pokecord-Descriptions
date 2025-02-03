@@ -1,0 +1,9 @@
+{
+    "title": "Cheri Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Holder Cures Itself If It Is Paralyzed.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955522507079854.png"
+}

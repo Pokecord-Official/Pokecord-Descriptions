@@ -1,0 +1,12 @@
+{
+    "title": "Throat Spray",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Raises Holder's Special Attack By 1 Stage After It Uses A Sound Move.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958818810462219.png"
+}

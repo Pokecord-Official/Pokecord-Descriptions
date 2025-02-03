@@ -1,0 +1,9 @@
+{
+    "title": "Babiri Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves Damage Taken From A Supereffective Steel-Type Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955307599200356.png"
+}

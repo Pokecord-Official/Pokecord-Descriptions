@@ -1,0 +1,11 @@
+{
+    "title": "Loaded Dice",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's Moves That Hit 2-5 Times Hit 4-5 Times; Population Bomb Hits 4-10 Times.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957608820998144.png"
+}

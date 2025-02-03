@@ -1,0 +1,11 @@
+{
+    "title": "Scope Lens",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's Critical Hit Ratio Is Raised By 1 Stage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958504418148372.png"
+}

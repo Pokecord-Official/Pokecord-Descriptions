@@ -1,0 +1,9 @@
+{
+    "title": "Rowap Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "If Holder Is Hit By A Special Move, Attacker Loses 1/8 Of Its Max HP.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958431449845791.png"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Iron Ball",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 130
+        }
+    },
+    "desc": "Holder Is Grounded, Speed Halved. If Flying Type, Takes Neutral Ground Damage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956320876073033.png"
+}

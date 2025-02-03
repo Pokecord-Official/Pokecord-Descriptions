@@ -1,0 +1,11 @@
+{
+    "title": "Choice Band",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's Attack Is 1.5x, But It Can Only Select The First Move It Executes.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955556581736561.png"
+}

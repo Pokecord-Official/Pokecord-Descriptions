@@ -1,0 +1,12 @@
+{
+    "title": "Focus Sash",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "If Holder's HP Is Full, Will Survive An Attack That Would KO It With 1 HP.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956014528299028.png"
+}

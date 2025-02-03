@@ -1,0 +1,12 @@
+{
+    "title": "Kings Rock",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30,
+            "volatileStatus": "flinch"
+        }
+    },
+    "desc": "Holder's Attacks Without A Chance To Make The Target Flinch Gain A 10% Chance To Make The Target Flinch. Evolves Poliwhirl Into Politoed And Slowpoke Into Slowking When Traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956385845837987.png"
+}

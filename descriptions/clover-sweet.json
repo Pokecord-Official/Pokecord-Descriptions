@@ -1,0 +1,10 @@
+{
+    "title": "Clover Sweet",
+    "conditions": {
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Evolves Milcery Into Alcremie When Held And Spun Around.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955588227633152.png"
+}

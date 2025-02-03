@@ -1,0 +1,11 @@
+{
+    "title": "Lucky Punch",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 40
+        }
+    },
+    "desc": "If Held By A Chansey, Its Critical Hit Ratio Is Raised By 2 Stages.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957655637819515.png"
+}

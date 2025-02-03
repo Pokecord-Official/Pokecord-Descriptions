@@ -1,0 +1,11 @@
+{
+    "title": "Dubious Disc",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 50
+        }
+    },
+    "desc": "Evolves Porygon2 Into Porygon-Z When Traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955757509869669.png"
+}

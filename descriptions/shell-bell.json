@@ -1,0 +1,11 @@
+{
+    "title": "Shell Bell",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "After An Attack, Holder Gains 1/8 Of The Damage In HP Dealt To Other Pokemon.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958557329162252.png"
+}
