@@ -20,6 +20,7 @@ try {
             fs.writeFileSync(path.join(writeTo, `${i.name}.json`), JSON.stringify(obj, null, 4))
         }
     }
+    fs.rmSync('./shop.json')
     console.log(' ✅ Successfully Created Descriptions.')
 } catch (e) {
     console.log('❌ Write Error')
