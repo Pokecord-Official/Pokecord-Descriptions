@@ -18,7 +18,7 @@ try {
             if (i.conditions.trade) obj.conditions.trade = true
             if (i.conditions.singleUse) obj.conditions.singleUse = true
             if (i.conditions.fling) obj.conditions.fling = i.conditions.fling
-            fs.writeFileSync(`${writeTo}/${i.name}.json`, JSON.stringify(obj, null, 4))
+            fs.writeFileSync(path.join(writeTo, `./${i.name}.json`), JSON.stringify(obj, null, 4))
         }
     }
     console.log(' ✅ Successfully Created Descriptions.')
