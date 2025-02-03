@@ -11,7 +11,7 @@ jobs:
       - name: Pull shop data
         run: |
             curl -X GET -H "Accept: application/vnd.github.raw+json" \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Authorization: token ${{ secrets.PAT }}" \
             https://api.github.com/repos/Pokecord-Official/Pokecord-Module/contents/src/shop.json \
             -o shop.json
       - name: Debug file
