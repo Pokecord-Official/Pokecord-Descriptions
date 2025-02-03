@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const shop = require('./shop.json')
-
+console.log(shop)
 const writeTo = path.join(__dirname, './descriptions')
 if (!fs.existsSync(writeTo)) fs.mkdirSync(writeTo)
 try {
