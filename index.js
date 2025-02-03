@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const shop = require('../shop.json')
+const shop = require('./shop.json')
 
 const writeTo = path.join(__dirname, './descriptions')
 try {
