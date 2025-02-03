@@ -13,7 +13,7 @@ jobs:
             curl -X GET -H "Accept: application/vnd.github.raw+json" \
             -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             https://api.github.com/repos/Pokecord-Official/Pokecord-Module/contents/src/shop.json \
-            -o ./Pokecord-Descriptions/shop.json
+            -o shop.json
       - name: Run script
         run: node index.js
       - name: Commit Changes
