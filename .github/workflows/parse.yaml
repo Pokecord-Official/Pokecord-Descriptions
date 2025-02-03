@@ -16,15 +16,13 @@ jobs:
             -o shop.json
       - name: Run script
         run: node index.js
-      - name: Debug Folder
-        run: |
-            cd descriptions
-            ls -la
-            cd ..
       - name: Commit Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          sed -i '/^descriptions\//d' .gitignore
           git add -f descriptions
           git commit -m "Auto Parsed Descriptions"
+          git restore .gitignore
+          git commit -m "Restore gitignore"
           git push
