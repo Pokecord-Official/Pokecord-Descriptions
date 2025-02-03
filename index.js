@@ -1,7 +1,6 @@
 const fs = require('fs')
 const path = require('path')
 const shop = require('./shop.json')
-console.log(shop)
 const writeTo = path.join(__dirname, './descriptions')
 if (!fs.existsSync(writeTo)) fs.mkdirSync(writeTo)
 try {
@@ -11,13 +10,15 @@ try {
             if (!i.desc) continue
             const obj = {
                 title: i.title,
-                conditions: { trade: i.conditions.trade, consumable: i.consumable },
+                conditions: {},
                 desc: i.desc,
                 icon: `https://cdn.discordapp.com/emojis/${i.emoji}.png`
             }
+            if (i.conditions.consumable) obj.conditions.consumable = true
+            if (i.conditions.trade) obj.conditions.trade = true
             if (i.conditions.singleUse) obj.conditions.singleUse = true
             if (i.conditions.fling) obj.conditions.fling = i.conditions.fling
-            fs.writeFileSync(`./descriptions/${i.name}.json`), JSON.stringify(obj, null, 4)
+            fs.writeFileSync(`${writeTo}/${i.name}.json`, JSON.stringify(obj, null, 4))
         }
     }
     console.log(' ✅ Successfully Created Descriptions.')
