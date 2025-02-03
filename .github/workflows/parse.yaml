@@ -18,7 +18,9 @@ jobs:
         run: node index.js
       - name: Debug Folder
         run: |
+            cd descriptions
             ls -la
+            cd ..
       - name: Commit Changes
         run: |
           git config --global user.name "github-actions[bot]"
