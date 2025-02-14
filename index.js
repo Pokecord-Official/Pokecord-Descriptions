@@ -3,7 +3,10 @@ const path = require('path')
 const shop = require('./shop.json')
 const shopExceptions = require('./shopExceptions.json')
 const writeTo = path.join(__dirname, './descriptions')
-for (const c in shopExceptions) { shop[c] = shop[c].concat(shopExceptions[c]) }
+for (const c in shopExceptions) {
+    if (!shop.hasOwnProperty(c)) shop[c] = []
+    shop[c] = shop[c].concat(shopExceptions[c])
+}
 if (!fs.existsSync(writeTo)) fs.mkdirSync(writeTo)
 try {
     console.log(`⏳ Creating Descriptions...`)
