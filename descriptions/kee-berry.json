@@ -1,0 +1,9 @@
+{
+    "title": "Kee Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Raises Holder's Defense By 1 Stage After It Is Hit By A Physical Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956373065797763.png"
+}

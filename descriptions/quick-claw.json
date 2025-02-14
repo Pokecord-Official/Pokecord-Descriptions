@@ -1,0 +1,11 @@
+{
+    "title": "Quick Claw",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Each Turn, Holder Has A 20% Chance To Move First In Its Priority Bracket.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958235135447080.png"
+}

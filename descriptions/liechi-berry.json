@@ -1,0 +1,9 @@
+{
+    "title": "Liechi Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Raises Holder's Attack By 1 Stage When At 1/4 Max HP Or Less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957589447643136.png"
+}

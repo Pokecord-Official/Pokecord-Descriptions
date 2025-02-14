@@ -1,0 +1,10 @@
+{
+    "title": "Leaf Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Gloom Into Vileplume, Weepinbell Into Victreebel, Exeggcute Into Exeggutor Or Alolan Exeggutor, Eevee Into Leafeon, Nuzleaf Into Shiftry, And Pansage Into Simisage When Used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957562759286824.png"
+}

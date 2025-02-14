@@ -1,0 +1,10 @@
+{
+    "title": "Dusk Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Murkrow Into Honchkrow, Misdreavus Into Mismagius, Lampent Into Chandelure, And Doublade Into Aegislash When Used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955763943673917.png"
+}

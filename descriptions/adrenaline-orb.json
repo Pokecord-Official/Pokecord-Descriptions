@@ -1,0 +1,12 @@
+{
+    "title": "Adrenaline Orb",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Raises Holder's Speed By 1 Stage If It Gets Affected By Intimidate.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955208659763202.png"
+}

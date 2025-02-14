@@ -1,0 +1,9 @@
+{
+    "title": "Rawst Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Holder Is Cured If It Is Burned.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958267947483219.png"
+}

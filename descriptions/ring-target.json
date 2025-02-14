@@ -1,0 +1,11 @@
+{
+    "title": "Ring Target",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "The Holder's Type Immunities Granted Solely By Its Typing Are Negated.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958367608213545.png"
+}

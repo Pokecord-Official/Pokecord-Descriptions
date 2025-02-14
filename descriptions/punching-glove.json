@@ -1,0 +1,11 @@
+{
+    "title": "Punching Glove",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's Punch-Based Attacks Have 1.1x Power And Do Not Make Contact.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958215824998565.png"
+}

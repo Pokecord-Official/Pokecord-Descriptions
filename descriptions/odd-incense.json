@@ -1,0 +1,11 @@
+{
+    "title": "Odd Incense",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's Psychic-Type Attacks Have 1.2x Power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957963004674110.png"
+}

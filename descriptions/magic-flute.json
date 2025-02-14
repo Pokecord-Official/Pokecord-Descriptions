@@ -1,0 +1,6 @@
+{
+    "title": "Magic Flute",
+    "conditions": {},
+    "desc": "Rerolls a pokemon's iv values. Cannot be used on the same pokemon if the new value is higher than the original.",
+    "icon": "https://cdn.discordapp.com/emojis/1310098780787445862.png"
+}

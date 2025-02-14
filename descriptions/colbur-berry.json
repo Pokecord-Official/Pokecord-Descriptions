@@ -1,0 +1,9 @@
+{
+    "title": "Colbur Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves Damage Taken From A Supereffective Dark-Type Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955600647094304.png"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Rindo Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves Damage Taken From A Supereffective Grass-Type Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958360943595624.png"
+}

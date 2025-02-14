@@ -1,0 +1,12 @@
+{
+    "title": "Booster Energy",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Activates The Protosynthesis Or Quark Drive Abilities.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955413241270313.png"
+}

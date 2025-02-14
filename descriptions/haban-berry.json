@@ -1,0 +1,9 @@
+{
+    "title": "Haban Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves Damage Taken From A Supereffective Dragon-Type Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956190839935028.png"
+}

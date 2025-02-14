@@ -1,0 +1,9 @@
+{
+    "title": "Enigma Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Restores 1/4 Max HP After Holder Is Hit By A Supereffective Move.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955835787907096.png"
+}

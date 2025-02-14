@@ -1,0 +1,11 @@
+{
+    "title": "Terrain Extender",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "Holder's Use Of Electric/Grassy/Misty/Psychic Terrain Lasts 8 Turns Instead Of 5.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958805317390458.png"
+}

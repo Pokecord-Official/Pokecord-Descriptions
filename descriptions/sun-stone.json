@@ -1,0 +1,10 @@
+{
+    "title": "Sun Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Gloom Into Bellossom, Sunkern Into Sunflora, Cottonee Into Whimsicott, Petilil Into Lilligant, And Helioptile Into Heliolisk When Used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958752439930921.png"
+}

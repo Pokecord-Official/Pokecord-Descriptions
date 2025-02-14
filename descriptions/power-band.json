@@ -1,0 +1,11 @@
+{
+    "title": "Power Band",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 70
+        }
+    },
+    "desc": "Holder's Speed Is Halved. The Klutz Ability Does Not Ignore This Effect.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958110371549286.png"
+}

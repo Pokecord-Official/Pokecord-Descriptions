@@ -1,0 +1,12 @@
+{
+    "title": "Eject Pack",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 50
+        }
+    },
+    "desc": "If The Holder's Stat Stages Are Lowered, It Switches To A Chosen Ally.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955796726616165.png"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Yache Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves Damage Taken From A Supereffective Ice-Type Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958984489799822.png"
+}

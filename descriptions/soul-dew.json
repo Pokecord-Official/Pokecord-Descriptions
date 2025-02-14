@@ -1,0 +1,11 @@
+{
+    "title": "Soul Dew",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "If Held By A Latias/Latios, Its Dragon- And Psychic-Type Moves Have 1.2x Power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958654016520232.png"
+}

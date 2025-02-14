@@ -1,0 +1,11 @@
+{
+    "title": "Up Grade",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Porygon Into Porygon2 When Traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958877329522821.png"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Coba Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves Damage Taken From A Supereffective Flying-Type Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955594691182725.png"
+}

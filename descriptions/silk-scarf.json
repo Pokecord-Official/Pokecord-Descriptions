@@ -1,0 +1,11 @@
+{
+    "title": "Silk Scarf",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's Normal-Type Attacks Have 1.2x Power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958589709324330.png"
+}

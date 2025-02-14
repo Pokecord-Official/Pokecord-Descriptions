@@ -1,0 +1,9 @@
+{
+    "title": "Tanga Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves Damage Taken From A Supereffective Bug-Type Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958785440845835.png"
+}

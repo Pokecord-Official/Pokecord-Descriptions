@@ -1,0 +1,9 @@
+{
+    "title": "Micle Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Holder's Next Move Has 1.2x Accuracy When At 1/4 Max HP Or Less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957843076939969.png"
+}

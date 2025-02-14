@@ -1,0 +1,10 @@
+{
+    "title": "Moon Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Nidorina Into Nidoqueen, Nidorino Into Nidoking, Clefairy Into Clefable, Jigglypuff Into Wigglytuff, Skitty Into Delcatty, And Munna Into Musharna When Used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957889621393508.png"
+}
