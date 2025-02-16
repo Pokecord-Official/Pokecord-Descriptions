@@ -1,6 +1,6 @@
 {
     "title": "Modest Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Modest nature, increasing its Spa & decereasing its Atk.",
+    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Modest nature, increasing its Special Attack & decereasing its Attack.",
     "icon": "https://cdn.discordapp.com/emojis/1276957882901991519.png"
 }

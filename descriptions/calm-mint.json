@@ -1,6 +1,6 @@
 {
     "title": "Calm Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Calm nature, increasing its Spd & decereasing its Atk.",
+    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Calm nature, increasing its Special Defense & decereasing its Attack.",
     "icon": "https://cdn.discordapp.com/emojis/1276955465351434393.png"
 }

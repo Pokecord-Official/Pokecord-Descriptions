@@ -1,6 +1,6 @@
 {
     "title": "Lax Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Lax nature, increasing its Def & decereasing its Spd.",
+    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Lax nature, increasing its Defense & decereasing its Special Defense.",
     "icon": "https://cdn.discordapp.com/emojis/1276957548930535566.png"
 }

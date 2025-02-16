@@ -1,6 +1,6 @@
 {
     "title": "Sassy Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Sassy nature, increasing its Spd & decereasing its Spe.",
+    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Sassy nature, increasing its Special Defense & decereasing its Speed.",
     "icon": "https://cdn.discordapp.com/emojis/1276958484964970526.png"
 }

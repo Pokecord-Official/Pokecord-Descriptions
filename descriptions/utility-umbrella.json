@@ -6,6 +6,6 @@
             "basePower": 60
         }
     },
-    "desc": "The Holder Ignores Rain- And Sun-Based Effects. Damage And Accuracy Calculations From Attacks Used By The Holder Are Affected By Rain And Sun, But Not Attacks Used Against The Holder.",
+    "desc": "The Holder Ignores Rain And Sun Based Effects. Damage And Accuracy Calculations From Attacks Used By The Holder Are Affected By Rain And Sun, But Not Attacks Used Against The Holder.",
     "icon": "https://cdn.discordapp.com/emojis/1276958884032155791.png"
 }

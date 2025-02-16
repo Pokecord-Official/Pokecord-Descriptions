@@ -1,6 +1,6 @@
 {
     "title": "Grepa Berry",
     "conditions": {},
-    "desc": "Cannot Be Eaten By The Holder. No Effect When Eaten With Bug Bite Or Pluck.",
+    "desc": "Decreases Effort Values Points for `Special Defense` of a Pokemon by 10.",
     "icon": "https://cdn.discordapp.com/emojis/1276956145763876916.png"
 }

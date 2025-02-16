@@ -4,6 +4,6 @@
         "trade": true,
         "singleUse": true
     },
-    "desc": "Restores 1/3 Max HP At 1/4 Max HP Or Less; Confuses If -Def Nature.",
+    "desc": "Restores 1/3 Max HP At 1/4 Max HP Or Less; Confuses If Negative Defense Nature.",
     "icon": "https://cdn.discordapp.com/emojis/1276956255935795230.png"
 }

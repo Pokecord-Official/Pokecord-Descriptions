@@ -1,6 +1,6 @@
 {
     "title": "Gentle Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Gentle nature, increasing its Spd & decereasing its Def.",
+    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Gentle nature, increasing its Special Defense & decereasing its Defense.",
     "icon": "https://cdn.discordapp.com/emojis/1276956073907195915.png"
 }

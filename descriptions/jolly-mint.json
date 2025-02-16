@@ -1,6 +1,6 @@
 {
     "title": "Jolly Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Jolly nature, increasing its Spe & decereasing its Spa.",
+    "desc": "Changes the effects of a Pokemon's nature on its stats to that of the Jolly nature, increasing its Speed & decereasing its Special Attack.",
     "icon": "https://cdn.discordapp.com/emojis/1276956346897404005.png"
 }
