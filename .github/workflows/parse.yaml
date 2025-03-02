@@ -1,7 +1,7 @@
 name: Parse
 on:
   repository_dispatch:
-    types: [push-event]
+    types: [parse-descriptions]
 jobs:
   parse:
     runs-on: ubuntu-latest
