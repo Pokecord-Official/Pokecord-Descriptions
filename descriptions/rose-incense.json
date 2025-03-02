@@ -1,0 +1,11 @@
+{
+    "title": "Rose Incense",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's `Grass` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958412479140032.png"
+}

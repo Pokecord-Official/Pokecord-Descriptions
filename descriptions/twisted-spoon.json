@@ -1,0 +1,11 @@
+{
+    "title": "Twisted Spoon",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's `Psychic` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958851572305991.png"
+}

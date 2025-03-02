@@ -1,0 +1,9 @@
+{
+    "title": "Chople Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves damage taken from a supereffective `Fighting` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955575531474944.png"
+}

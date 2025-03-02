@@ -1,0 +1,11 @@
+{
+    "title": "Air Balloon",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder is immune to `Ground` Type attacks. Pops when holder is hit.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955234903654476.png"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Leppa Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Restores `10` pp to the first of the holder's moves to reach `0` pp.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957582522585148.png"
+}

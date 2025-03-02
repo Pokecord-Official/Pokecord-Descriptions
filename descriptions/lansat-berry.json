@@ -1,0 +1,9 @@
+{
+    "title": "Lansat Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Holder gains the focus energy effect when at `1/4` max HP or less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956404665815131.png"
+}

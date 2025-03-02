@@ -1,0 +1,11 @@
+{
+    "title": "Spell Tag",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's `Ghost` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958665563439194.png"
+}

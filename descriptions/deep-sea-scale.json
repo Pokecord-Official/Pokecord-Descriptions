@@ -1,0 +1,11 @@
+{
+    "title": "Deep Sea Scale",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "If held by a Clamperl, it's `Special Defense` is doubled. Evolves Clamperl into Gorebyss when traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955672319361075.png"
+}

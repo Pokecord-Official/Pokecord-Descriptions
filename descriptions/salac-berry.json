@@ -1,0 +1,9 @@
+{
+    "title": "Salac Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Raises holder's `Speed` by `1` stage when at `1/4` max HP or less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958471094534236.png"
+}

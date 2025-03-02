@@ -1,0 +1,9 @@
+{
+    "title": "Chilan Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves damage taken from a `Normal` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955535421341737.png"
+}

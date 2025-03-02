@@ -1,0 +1,10 @@
+{
+    "title": "Malicious Armor",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Charcadet into Ceruledge when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957719861006336.png"
+}

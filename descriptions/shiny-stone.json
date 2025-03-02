@@ -1,0 +1,10 @@
+{
+    "title": "Shiny Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958569622933540.png"
+}

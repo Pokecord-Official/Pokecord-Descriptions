@@ -1,0 +1,9 @@
+{
+    "title": "Oran Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Restores `10` HP when at `1/2` max HP or less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957969476485273.png"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Kasib Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves damage taken from a supereffective `Ghost` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956359975374912.png"
+}

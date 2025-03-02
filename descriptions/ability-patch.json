@@ -1,0 +1,6 @@
+{
+    "title": "Ability Patch",
+    "conditions": {},
+    "desc": "Changes a Pokémon's ability from one of it's standard abilities to it's hidden ability. Can also be used to remove a hidden ability setting it back to the first ability slot.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955162153455707.png"
+}

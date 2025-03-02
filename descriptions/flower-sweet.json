@@ -1,0 +1,10 @@
+{
+    "title": "Flower Sweet",
+    "conditions": {
+        "fling": {
+            "basePower": 0
+        }
+    },
+    "desc": "Evolves Milcery into Alcremie.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955981611274282.png"
+}

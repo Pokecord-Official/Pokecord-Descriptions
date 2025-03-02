@@ -1,0 +1,11 @@
+{
+    "title": "Big Root",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder gains `1.3x` HP from Draining, Aqua Ring, Ingrain, Leech Seed and Strength Sap.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955339811590318.png"
+}

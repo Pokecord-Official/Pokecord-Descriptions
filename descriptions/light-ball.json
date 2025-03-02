@@ -1,0 +1,12 @@
+{
+    "title": "Light Ball",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30,
+            "status": "par"
+        }
+    },
+    "desc": "If held by a Pikachu, it's `Attack` and `Special Attack` are doubled.",
+    "icon": "https://cdn.discordapp.com/emojis/1281255131320418314.png"
+}

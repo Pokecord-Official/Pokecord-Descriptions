@@ -1,0 +1,11 @@
+{
+    "title": "Wellspring Mask",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "Ogerpon Wellspring forme has `1.2x` Attacks; Terastallizes to gain Embody Aspect.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958944253706370.png"
+}

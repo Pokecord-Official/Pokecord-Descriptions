@@ -1,0 +1,9 @@
+{
+    "title": "Wacan Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves damage taken from a supereffective `Electric` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958897193877534.png"
+}

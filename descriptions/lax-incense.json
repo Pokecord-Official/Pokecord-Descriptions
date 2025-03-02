@@ -1,0 +1,11 @@
+{
+    "title": "Lax Incense",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "The accuracy of attacks against the holder is `0.9x`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957542202736662.png"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Ability Shield",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's ability cannot be changed by any effect.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955168625135738.png"
+}

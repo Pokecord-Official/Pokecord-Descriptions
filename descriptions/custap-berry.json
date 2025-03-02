@@ -1,0 +1,9 @@
+{
+    "title": "Custap Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Holder moves first in it's priority bracket when at `1/4` max HP or less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955627024945314.png"
+}

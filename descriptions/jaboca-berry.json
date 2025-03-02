@@ -1,0 +1,9 @@
+{
+    "title": "Jaboca Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "If holder is hit by a physical move, attacker loses `1/8` of it's max HP.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956340022935694.png"
+}

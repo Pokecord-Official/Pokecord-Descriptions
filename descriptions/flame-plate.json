@@ -1,0 +1,8 @@
+{
+    "title": "Flame Plate",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's `Fire` Type attacks have `1.2x` power. Judgment is `Fire` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955968860721203.png"
+}

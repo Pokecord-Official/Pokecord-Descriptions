@@ -1,0 +1,11 @@
+{
+    "title": "Covert Cloak",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder is not affected by the secondary effect of another Pokémon's attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955613473275905.png"
+}

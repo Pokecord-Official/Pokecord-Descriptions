@@ -1,0 +1,12 @@
+{
+    "title": "Mental Herb",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957777696391168.png"
+}

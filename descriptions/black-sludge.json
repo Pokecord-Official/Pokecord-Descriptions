@@ -1,0 +1,11 @@
+{
+    "title": "Black Sludge",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Each turn, if holder is a `Poison` Type, restores `1/16` max HP; loses `1/8` if not.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955373227741254.png"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Macho Brace",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "Holder's `Speed` is halved. The Klutz ability does not ignore this effect.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957694334603315.png"
+}

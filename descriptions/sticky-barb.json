@@ -1,0 +1,11 @@
+{
+    "title": "Sticky Barb",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Each turn, holder loses `1/8` max HP. An attacker making contact can receive it.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958732835622956.png"
+}

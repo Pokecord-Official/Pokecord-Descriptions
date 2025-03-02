@@ -1,0 +1,11 @@
+{
+    "title": "Metal Coat",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's `Steel` Type attacks have `1.2x` power. Evolves Onix into Steelix and Scyther into Scizor when traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957797430591508.png"
+}

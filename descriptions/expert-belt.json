@@ -1,0 +1,11 @@
+{
+    "title": "Expert Belt",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's attacks that are super effective against the target do `1.2x` damage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955868230848633.png"
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Bug Memory",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's multi-attack is `Bug` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955431713112146.png"
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Amulet Coin",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "The player has a chance to recieve upto `2` pokecoins after every spawn or pvp battle win.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955268831252553.png"
+}

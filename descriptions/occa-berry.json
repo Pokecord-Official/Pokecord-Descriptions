@@ -1,0 +1,9 @@
+{
+    "title": "Occa Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves damage taken from a supereffective `Fire` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957956247912508.png"
+}

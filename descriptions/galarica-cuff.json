@@ -1,0 +1,10 @@
+{
+    "title": "Galarica Cuff",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves galarian Slowpoke into galarian Slowbro when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956026956021843.png"
+}

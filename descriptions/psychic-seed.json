@@ -1,0 +1,12 @@
+{
+    "title": "Psychic Seed",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "If the terrain is psychic terrain, raises holder's `Special Defense` by `1` stage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958196644446339.png"
+}

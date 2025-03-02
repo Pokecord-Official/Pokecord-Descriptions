@@ -1,0 +1,11 @@
+{
+    "title": "Assault Vest",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Holder's `Special Defense` is `1.5x`, but it can only select damaging moves.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955288309862440.png"
+}

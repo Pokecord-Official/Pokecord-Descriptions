@@ -1,0 +1,12 @@
+{
+    "title": "Poison Barb",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 70,
+            "status": "psn"
+        }
+    },
+    "desc": "Holder's `Poison` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958053274746951.png"
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Cell Battery",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Raises holder's `Attack` by `1` if hit by an `Electric` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955491116777573.png"
+}

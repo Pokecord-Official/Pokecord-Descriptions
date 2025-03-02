@@ -1,0 +1,9 @@
+{
+    "title": "Starf Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Raises a random stat by `2` when at `1/4` max HP or less (not acc/eva).",
+    "icon": "https://cdn.discordapp.com/emojis/1276958692872552448.png"
+}

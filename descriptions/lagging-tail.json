@@ -1,0 +1,11 @@
+{
+    "title": "Lagging Tail",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder moves last in it's priority bracket.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956398130827346.png"
+}

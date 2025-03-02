@@ -1,0 +1,12 @@
+{
+    "title": "Luminous Moss",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Raises holder's `Special Defense` by `1` stage if hit by a `Water` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957668442898483.png"
+}

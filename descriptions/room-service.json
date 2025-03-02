@@ -1,0 +1,12 @@
+{
+    "title": "Room Service",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 100
+        }
+    },
+    "desc": "If Trick Room is active, the holder's `Speed` is lowered by `1` stage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958405826707540.png"
+}

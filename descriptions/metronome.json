@@ -1,0 +1,11 @@
+{
+    "title": "Metronome",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Damage of moves used on consecutive turns is increased. Max `2x` after `5` turns.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957817017864285.png"
+}

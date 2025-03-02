@@ -1,0 +1,10 @@
+{
+    "title": "Water Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958910686953492.png"
+}

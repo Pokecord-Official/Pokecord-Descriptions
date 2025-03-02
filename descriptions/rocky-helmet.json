@@ -1,0 +1,11 @@
+{
+    "title": "Rocky Helmet",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "If holder is hit by a contact move, the attacker loses `1/6` of it's max HP.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958399392780369.png"
+}

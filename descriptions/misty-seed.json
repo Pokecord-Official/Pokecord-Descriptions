@@ -1,0 +1,12 @@
+{
+    "title": "Misty Seed",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "If the terrain is misty terrain, raises holder's `Special Defense` by `1` stage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957876660994151.png"
+}

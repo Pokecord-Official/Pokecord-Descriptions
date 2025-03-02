@@ -1,0 +1,11 @@
+{
+    "title": "Utility Umbrella",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "The holder ignores rain and sun based effects. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958884032155791.png"
+}

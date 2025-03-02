@@ -1,0 +1,11 @@
+{
+    "title": "Grip Claw",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 90
+        }
+    },
+    "desc": "Holder's partial-trapping moves always last `7` turns.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956152474632295.png"
+}

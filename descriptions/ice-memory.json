@@ -1,0 +1,8 @@
+{
+    "title": "Ice Memory",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's multi-attack is `Ice` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956263531548702.png"
+}

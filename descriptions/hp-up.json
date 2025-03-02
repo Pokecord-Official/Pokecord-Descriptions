@@ -1,0 +1,6 @@
+{
+    "title": "Hp Up",
+    "conditions": {},
+    "desc": "Increases effort values points for `HP` of a Pokémon by `10`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956249455329405.png"
+}

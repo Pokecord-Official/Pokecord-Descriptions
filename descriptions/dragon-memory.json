@@ -1,0 +1,8 @@
+{
+    "title": "Dragon Memory",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's multi-attack is `Dragon` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955724496240681.png"
+}

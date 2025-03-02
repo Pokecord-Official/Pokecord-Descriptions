@@ -1,0 +1,11 @@
+{
+    "title": "Wide Lens",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "The accuracy of attacks by the holder is `1.1x`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958964571050025.png"
+}

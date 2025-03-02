@@ -1,0 +1,8 @@
+{
+    "title": "Zap Plate",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's `Electric` Type attacks have `1.2x` power. Judgment is `Electric` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958990961741855.png"
+}

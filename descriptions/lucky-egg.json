@@ -1,0 +1,8 @@
+{
+    "title": "Lucky Egg",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Increases the amount of experience gained by the holder by `50%`. Stacks along with items like `Exp. Charm` & `Exp. Share`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957648989847552.png"
+}

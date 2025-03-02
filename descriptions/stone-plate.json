@@ -1,0 +1,8 @@
+{
+    "title": "Stone Plate",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's `Rock` Type attacks have `1.2x` power. Judgment is `Rock` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958739760545833.png"
+}

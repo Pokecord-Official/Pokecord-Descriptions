@@ -1,0 +1,12 @@
+{
+    "title": "Eject Button",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "If holder survives a hit, it immediately switches out to a chosen ally.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955790288097280.png"
+}

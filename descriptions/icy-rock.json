@@ -1,0 +1,11 @@
+{
+    "title": "Icy Rock",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 40
+        }
+    },
+    "desc": "Holder's use of hail lasts `8` turns instead of `5`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956295437615144.png"
+}

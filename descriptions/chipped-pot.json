@@ -1,0 +1,10 @@
+{
+    "title": "Chipped Pot",
+    "conditions": {
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Sinistea Antique into Polteageist Antique when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955548436271256.png"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Damp Rock",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "Holder's use of rain dance lasts `8` turns instead of `5`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955633140236328.png"
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Galarica Wreath",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves galarian Slowpoke into galarian Slowking when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956033205407774.png"
+}

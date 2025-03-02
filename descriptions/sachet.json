@@ -1,0 +1,11 @@
+{
+    "title": "Sachet",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Spritzee into Aromatisse when traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958457630560267.png"
+}

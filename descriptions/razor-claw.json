@@ -1,0 +1,11 @@
+{
+    "title": "Razor Claw",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Holder's critical hit ratio is raised by `1` stage. Evolves Sneasel into Weavile when held and leveled up during the night.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958274423623772.png"
+}

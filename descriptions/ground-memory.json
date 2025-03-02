@@ -1,0 +1,8 @@
+{
+    "title": "Ground Memory",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's multi-attack is `Ground` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956165401608214.png"
+}

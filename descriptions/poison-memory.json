@@ -1,0 +1,8 @@
+{
+    "title": "Poison Memory",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's multi-attack is `Poison` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958059943690341.png"
+}

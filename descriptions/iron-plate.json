@@ -1,0 +1,8 @@
+{
+    "title": "Iron Plate",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's `Steel` Type attacks have `1.2x` power. Judgment is `Steel` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956327352205393.png"
+}

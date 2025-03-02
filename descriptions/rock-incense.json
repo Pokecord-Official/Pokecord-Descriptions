@@ -1,0 +1,11 @@
+{
+    "title": "Rock Incense",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's `Rock` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958374122094743.png"
+}

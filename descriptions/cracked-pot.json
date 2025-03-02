@@ -1,0 +1,10 @@
+{
+    "title": "Cracked Pot",
+    "conditions": {
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Sinistea into Polteageist when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955620297150516.png"
+}

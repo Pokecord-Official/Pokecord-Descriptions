@@ -1,0 +1,10 @@
+{
+    "title": "Tart Apple",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Applin into Flapple when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958798610956402.png"
+}

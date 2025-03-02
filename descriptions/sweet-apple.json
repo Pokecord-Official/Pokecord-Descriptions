@@ -1,0 +1,10 @@
+{
+    "title": "Sweet Apple",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Applin into Appletun when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958765916098733.png"
+}

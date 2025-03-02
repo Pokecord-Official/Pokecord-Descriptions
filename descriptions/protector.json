@@ -1,0 +1,11 @@
+{
+    "title": "Protector",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Rhydon into Rhyperior when traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958176771837952.png"
+}

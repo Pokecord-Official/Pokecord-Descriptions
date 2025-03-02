@@ -1,0 +1,11 @@
+{
+    "title": "Shed Shell",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder may switch out even when trapped by another Pokémon, or by Ingrain.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958550987640874.png"
+}

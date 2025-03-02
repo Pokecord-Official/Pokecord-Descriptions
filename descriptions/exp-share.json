@@ -1,0 +1,8 @@
+{
+    "title": "Exp Share",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "The holder recieves `50%` of the total experience gained from a battle if the holder has not participated in it. If multiple Pokémon are holding the item, the experience is equally divided amongst all non participants.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955860995674218.png"
+}

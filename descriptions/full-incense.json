@@ -1,0 +1,11 @@
+{
+    "title": "Full Incense",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder moves last in it's priority bracket.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956020312375377.png"
+}

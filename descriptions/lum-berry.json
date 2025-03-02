@@ -1,0 +1,9 @@
+{
+    "title": "Lum Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Holder cures it'self if it has a non-volatile status or is confused.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957661925081129.png"
+}

@@ -1,0 +1,11 @@
+{
+    "title": "Thick Club",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 90
+        }
+    },
+    "desc": "If held by a Cubone or a Marowak, it's `Attack` is doubled.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958812196311040.png"
+}

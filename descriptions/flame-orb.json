@@ -1,0 +1,12 @@
+{
+    "title": "Flame Orb",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30,
+            "status": "brn"
+        }
+    },
+    "desc": "At the end of every turn, this item attempts to burn the holder.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955962456150046.png"
+}

@@ -1,0 +1,9 @@
+{
+    "title": "Mago Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Restores `1/3` max HP at `1/4` max HP or Less; confuses if negative `Speed` nature.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957713452109866.png"
+}

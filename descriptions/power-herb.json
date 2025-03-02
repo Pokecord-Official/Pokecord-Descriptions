@@ -1,0 +1,12 @@
+{
+    "title": "Power Herb",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's two-turn moves complete in one turn (except sky drop).",
+    "icon": "https://cdn.discordapp.com/emojis/1276958130181509140.png"
+}

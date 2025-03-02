@@ -1,0 +1,11 @@
+{
+    "title": "Zoom Lens",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "The accuracy of attacks by the holder is `1.2x` if it moves after it's target.",
+    "icon": "https://cdn.discordapp.com/emojis/1276959004102365269.png"
+}

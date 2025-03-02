@@ -1,0 +1,11 @@
+{
+    "title": "Leek",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "If held by a farfetch’d or sirfetch’d, it's critical hit ratio is raised by `2` stages.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957569176309771.png"
+}

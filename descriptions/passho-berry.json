@@ -1,0 +1,9 @@
+{
+    "title": "Passho Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves damage taken from a supereffective `Water` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957982042882079.png"
+}

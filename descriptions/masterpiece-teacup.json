@@ -1,0 +1,10 @@
+{
+    "title": "Masterpiece Teacup",
+    "conditions": {
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Poltchageist Artisan into Sinistcha Masterpiece when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957745131556937.png"
+}

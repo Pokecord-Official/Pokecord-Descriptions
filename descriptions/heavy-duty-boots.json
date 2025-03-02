@@ -1,0 +1,11 @@
+{
+    "title": "Heavy Duty Boots",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "When switching in, the holder is unaffected by hazards on it's side of the field.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956223106973696.png"
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Ice Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves alolan Sandshrew into alolan Sandslash, alolan Vulpix into alolan Ninetales, Eevee into Glaceon, and galarian Darumaka into galarian Darmanitan when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956269747376229.png"
+}

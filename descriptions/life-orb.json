@@ -1,0 +1,11 @@
+{
+    "title": "Life Orb",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's attacks do `1.3x` damage, and it loses `1/10` of it's max HP after the Attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957595470659585.png"
+}

@@ -1,0 +1,12 @@
+{
+    "title": "Berry Juice",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Restores `20` HP when at `1/2` max HP or less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955327232999485.png"
+}

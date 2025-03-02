@@ -1,0 +1,11 @@
+{
+    "title": "Binding Band",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's partial-trapping moves deal `1/6` max HP per turn instead of `1/8`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955345775890443.png"
+}

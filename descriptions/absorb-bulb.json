@@ -1,0 +1,12 @@
+{
+    "title": "Absorb Bulb",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Raises holder's `Special Attack` by `1` stage if hit by a `Water` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955189370290196.png"
+}

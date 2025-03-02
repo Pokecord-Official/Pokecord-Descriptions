@@ -1,0 +1,9 @@
+{
+    "title": "Wiki Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Restores `1/3` max HP at `1/4` max HP or Less; confuses if negative `Special Attack` nature.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958971210498150.png"
+}

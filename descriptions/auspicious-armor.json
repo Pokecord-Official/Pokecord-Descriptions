@@ -1,0 +1,10 @@
+{
+    "title": "Auspicious Armor",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Charcadet into Armarouge when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955301295296586.png"
+}

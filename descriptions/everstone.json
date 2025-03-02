@@ -1,0 +1,8 @@
+{
+    "title": "Everstone",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Prevents the holder from evolving. Also negates the effects of region when breeding.\nOffspring has a `50%` chance of having the same nature as the parent when breeding.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955842515570749.png"
+}

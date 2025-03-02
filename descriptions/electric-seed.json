@@ -1,0 +1,12 @@
+{
+    "title": "Electric Seed",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "If the terrain is electric terrain, raises holder's `Defense` by `1` stage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955815647121532.png"
+}

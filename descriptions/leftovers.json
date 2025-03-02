@@ -1,0 +1,11 @@
+{
+    "title": "Leftovers",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "At the end of every turn, holder restores `1/16` of it's max HP.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957575686131775.png"
+}

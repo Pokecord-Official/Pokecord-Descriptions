@@ -1,0 +1,9 @@
+{
+    "title": "Sitrus Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Restores `1/4` max HP when at `1/2` max HP or less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958602325659769.png"
+}

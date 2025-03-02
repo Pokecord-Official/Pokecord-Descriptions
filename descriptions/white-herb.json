@@ -1,0 +1,12 @@
+{
+    "title": "White Herb",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Restores all lowered Stat stages to `0` when one is less than `0`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958958183256177.png"
+}

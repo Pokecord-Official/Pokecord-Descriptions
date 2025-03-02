@@ -1,0 +1,11 @@
+{
+    "title": "Miracle Seed",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's `Grass` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957863318917170.png"
+}

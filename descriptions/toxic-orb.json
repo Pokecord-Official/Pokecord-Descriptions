@@ -1,0 +1,12 @@
+{
+    "title": "Toxic Orb",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30,
+            "status": "tox"
+        }
+    },
+    "desc": "At the end of every turn, this item attempts to badly poison the holder.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958838435745894.png"
+}

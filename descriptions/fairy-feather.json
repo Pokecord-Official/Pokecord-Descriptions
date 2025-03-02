@@ -1,0 +1,11 @@
+{
+    "title": "Fairy Feather",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's `Fairy` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955881371603016.png"
+}

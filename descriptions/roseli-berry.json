@@ -1,0 +1,9 @@
+{
+    "title": "Roseli Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Halves damage taken from a supereffective `Fairy` Type attack.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958418816467085.png"
+}

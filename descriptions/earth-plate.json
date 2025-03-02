@@ -1,0 +1,8 @@
+{
+    "title": "Earth Plate",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's `Ground` Type attacks have `1.2x` power. Judgment is `Ground` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955777055326238.png"
+}

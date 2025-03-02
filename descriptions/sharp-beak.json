@@ -1,0 +1,11 @@
+{
+    "title": "Sharp Beak",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 50
+        }
+    },
+    "desc": "Holder's `Flying` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958538157133917.png"
+}

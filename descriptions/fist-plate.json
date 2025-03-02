@@ -1,0 +1,8 @@
+{
+    "title": "Fist Plate",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's `Fighting` Type attacks have `1.2x` power. Judgment is `Fighting` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955955841732659.png"
+}

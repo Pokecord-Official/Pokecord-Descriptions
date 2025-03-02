@@ -1,0 +1,11 @@
+{
+    "title": "Protective Pads",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's moves are protected from adverse contact effects, except pickpocket.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958169750573220.png"
+}

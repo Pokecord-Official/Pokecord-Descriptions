@@ -1,0 +1,12 @@
+{
+    "title": "Grassy Seed",
+    "conditions": {
+        "trade": true,
+        "singleUse": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "If the terrain is grassy terrain, raises holder's `Defense` by `1` stage.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956139249991741.png"
+}

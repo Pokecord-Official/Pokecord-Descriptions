@@ -1,0 +1,11 @@
+{
+    "title": "Eviolite",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 40
+        }
+    },
+    "desc": "If holder's species can evolve, it's `Defense` and `Special Defense` are `1.5x`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955848349974569.png"
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Normal Gem",
+    "conditions": {
+        "singleUse": true
+    },
+    "desc": "Holder's first successful `Normal` Type attack will have `1.3x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1323543537165271141.png"
+}

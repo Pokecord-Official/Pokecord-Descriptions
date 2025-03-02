@@ -1,0 +1,11 @@
+{
+    "title": "Power Anklet",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 70
+        }
+    },
+    "desc": "Holder's `Speed` is halved. The Klutz ability does not ignore this effect.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958104180887680.png"
+}

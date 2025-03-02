@@ -1,0 +1,11 @@
+{
+    "title": "Cornerstone Mask",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 60
+        }
+    },
+    "desc": "Ogerpon Cornerstone forme has `1.2x` Attack; Terastallizes to gain Embody Aspect.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955607315775518.png"
+}

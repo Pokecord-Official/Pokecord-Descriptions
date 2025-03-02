@@ -1,0 +1,11 @@
+{
+    "title": "Dragon Scale",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Seadra into Kingdra when traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955730863456337.png"
+}

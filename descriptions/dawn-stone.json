@@ -1,0 +1,10 @@
+{
+    "title": "Dawn Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955659107307641.png"
+}

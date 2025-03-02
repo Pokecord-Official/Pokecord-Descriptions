@@ -1,0 +1,11 @@
+{
+    "title": "Wise Glasses",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's special attacks have `1.1x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958977611010164.png"
+}

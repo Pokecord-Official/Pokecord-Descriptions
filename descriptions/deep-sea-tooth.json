@@ -1,0 +1,11 @@
+{
+    "title": "Deep Sea Tooth",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 90
+        }
+    },
+    "desc": "If held by a Clamperl, it's `Special Attack` is doubled. Evolves Clamperl into Huntail when traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955679193829417.png"
+}

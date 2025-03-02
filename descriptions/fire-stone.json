@@ -1,0 +1,10 @@
+{
+    "title": "Fire Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955935352557719.png"
+}

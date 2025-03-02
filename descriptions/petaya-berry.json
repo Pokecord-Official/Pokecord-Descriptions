@@ -1,0 +1,9 @@
+{
+    "title": "Petaya Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Raises holder's `Special Attack` by `1` stage when at `1/4` max HP or less.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958014095757465.png"
+}

@@ -1,0 +1,10 @@
+{
+    "title": "Unremarkable Teacup",
+    "conditions": {
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Poltchageist into Sinistcha when used.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958870690070589.png"
+}

@@ -1,0 +1,8 @@
+{
+    "title": "Spooky Plate",
+    "conditions": {
+        "trade": true
+    },
+    "desc": "Holder's `Ghost` Type attacks have `1.2x` power. Judgment is `Ghost` Type.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958679391797299.png"
+}

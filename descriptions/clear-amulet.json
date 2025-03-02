@@ -1,0 +1,11 @@
+{
+    "title": "Clear Amulet",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Prevents other Pokémon from lowering the holder's stat stages.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955581998956584.png"
+}

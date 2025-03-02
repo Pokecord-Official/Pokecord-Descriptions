@@ -1,0 +1,11 @@
+{
+    "title": "Electirizer",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Electabuzz into Electivire when traded.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955803043237999.png"
+}

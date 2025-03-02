@@ -1,0 +1,10 @@
+{
+    "title": "Thunder Stone",
+    "conditions": {
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Evolves Pikachu into Raichu or alolan Raichu, Eevee into Jolteon, Eelektrik into Eelektross, and Charjabug into Vikavolt.",
+    "icon": "https://cdn.discordapp.com/emojis/1276958825253044285.png"
+}

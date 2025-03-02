@@ -1,0 +1,11 @@
+{
+    "title": "Light Clay",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts `8` turns instead of `5`.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957601799602299.png"
+}

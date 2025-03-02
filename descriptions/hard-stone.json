@@ -1,0 +1,11 @@
+{
+    "title": "Hard Stone",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 100
+        }
+    },
+    "desc": "Holder's `Rock` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276956197563531355.png"
+}

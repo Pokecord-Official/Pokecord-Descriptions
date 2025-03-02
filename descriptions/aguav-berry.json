@@ -1,0 +1,9 @@
+{
+    "title": "Aguav Berry",
+    "conditions": {
+        "trade": true,
+        "singleUse": true
+    },
+    "desc": "Restores `1/3` max HP at `1/4` max HP or Less; Confuses if negative `Special Defense` nature.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955228674986014.png"
+}

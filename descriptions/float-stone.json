@@ -1,0 +1,11 @@
+{
+    "title": "Float Stone",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 30
+        }
+    },
+    "desc": "Holder's weight is halved.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955975135268988.png"
+}

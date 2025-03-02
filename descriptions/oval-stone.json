@@ -1,0 +1,11 @@
+{
+    "title": "Oval Stone",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 80
+        }
+    },
+    "desc": "Evolves Happiny into Chansey when held and leveled up during the day.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957975671472148.png"
+}

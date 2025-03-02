@@ -1,0 +1,6 @@
+{
+    "title": "Magic Flute",
+    "conditions": {},
+    "desc": "Rerolls a pokémon's IV values. Cannot be used on the same pokémon if the new value is higher than the original; Also rerolls shiny chance for non-shiny pokemon.",
+    "icon": "https://cdn.discordapp.com/emojis/1310098780787445862.png"
+}

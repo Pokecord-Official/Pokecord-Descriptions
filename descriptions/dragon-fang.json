@@ -1,0 +1,11 @@
+{
+    "title": "Dragon Fang",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 70
+        }
+    },
+    "desc": "Holder's `Dragon` Type attacks have `1.2x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276955717840146527.png"
+}

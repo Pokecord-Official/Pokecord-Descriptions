@@ -1,0 +1,11 @@
+{
+    "title": "Muscle Band",
+    "conditions": {
+        "trade": true,
+        "fling": {
+            "basePower": 10
+        }
+    },
+    "desc": "Holder's physical attacks have `1.1x` power.",
+    "icon": "https://cdn.discordapp.com/emojis/1276957896092942410.png"
+}
