@@ -1,6 +1,6 @@
 {
     "title": "Poke Radar",
     "conditions": {},
-    "desc": "Key item that allows rerolling a random pokemon from the spawn list. Also works with encounter ticket spawn.",
+    "desc": "Key item that allows rerolling the selected pokemon from the spawn list. Also works with encounter ticket spawns.",
     "icon": "https://cdn.discordapp.com/emojis/1353759930724777984.png"
 }
