@@ -1,6 +1,6 @@
 {
     "title": "Rash Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Rash Nature`, increasing it's `Special Attack` & decereasing it's `Special Defense`.",
+    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Rash Nature`, increasing it's `Special Attack` & decreasing it's `Special Defense`.",
     "icon": "https://cdn.discordapp.com/emojis/1276958261664415825.png"
 }

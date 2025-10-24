@@ -1,6 +1,6 @@
 {
     "title": "Naive Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Naive Nature`, increasing it's `Speed` & decereasing it's `Special Defense`.",
+    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Naive Nature`, increasing it's `Speed` & decreasing it's `Special Defense`.",
     "icon": "https://cdn.discordapp.com/emojis/1276957922697678921.png"
 }

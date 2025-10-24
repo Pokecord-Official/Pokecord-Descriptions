@@ -1,6 +1,6 @@
 {
     "title": "Naughty Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Naughty Nature`, increasing it's `Attack` & decereasing it's `Special Defense`.",
+    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Naughty Nature`, increasing it's `Attack` & decreasing it's `Special Defense`.",
     "icon": "https://cdn.discordapp.com/emojis/1276957929526001734.png"
 }

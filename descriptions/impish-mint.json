@@ -1,6 +1,6 @@
 {
     "title": "Impish Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Impish Nature`, increasing it's `Defense` & decereasing it's `Special Attack`.",
+    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Impish Nature`, increasing it's `Defense` & decreasing it's `Special Attack`.",
     "icon": "https://cdn.discordapp.com/emojis/1276956301712425021.png"
 }

@@ -1,6 +1,6 @@
 {
     "title": "Lonely Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Lonely Nature`, increasing it's `Attack` & decereasing it's `Defense`.",
+    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Lonely Nature`, increasing it's `Attack` & decreasing it's `Defense`.",
     "icon": "https://cdn.discordapp.com/emojis/1276957615582089219.png"
 }

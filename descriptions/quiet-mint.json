@@ -1,6 +1,6 @@
 {
     "title": "Quiet Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Quiet Nature`, increasing it's `Special Attack` & decereasing it's `Speed`.",
+    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Quiet Nature`, increasing it's `Special Attack` & decreasing it's `Speed`.",
     "icon": "https://cdn.discordapp.com/emojis/1276958248770994196.png"
 }

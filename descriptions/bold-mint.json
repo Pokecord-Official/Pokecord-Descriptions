@@ -1,6 +1,6 @@
 {
     "title": "Bold Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Bold Nature`, increasing it's `Defense` & decereasing it's `Attack`.",
+    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Bold Nature`, increasing it's `Defense` & decreasing it's `Attack`.",
     "icon": "https://cdn.discordapp.com/emojis/1276955406429589585.png"
 }

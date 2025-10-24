@@ -1,6 +1,6 @@
 {
     "title": "Careful Mint",
     "conditions": {},
-    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Careful Nature`, increasing it's `Special Defense` & decereasing it's `Special Attack`.",
+    "desc": "Changes the effects of a Pokémon's nature on it's stats to that of the `Careful Nature`, increasing it's `Special Defense` & decreasing it's `Special Attack`.",
     "icon": "https://cdn.discordapp.com/emojis/1276955484485586975.png"
 }
