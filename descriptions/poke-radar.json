@@ -1,6 +1,6 @@
 {
     "title": "Poke Radar",
     "conditions": {},
-    "desc": "Key item that allows rerolling the selected pokemon from the spawn list. Can only be used once every `10` spawns. Also works with encounter tickets.",
+    "desc": "Key item that allows rerolling the selected pokemon from the spawn list. Can only be used once every `5` spawns. Also works with encounter tickets.",
     "icon": "https://cdn.discordapp.com/emojis/1353759930724777984.png"
 }

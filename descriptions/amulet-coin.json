@@ -3,6 +3,6 @@
     "conditions": {
         "trade": true
     },
-    "desc": "The player has a chance to recieve upto `2` pokecoins after every spawn or pvp battle win.",
+    "desc": "The player has a `25%` chance to recieve `2` pokecoins after every spawn battle win that the holder participates in.",
     "icon": "https://cdn.discordapp.com/emojis/1276955268831252553.png"
 }
