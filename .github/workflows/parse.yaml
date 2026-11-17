@@ -1,25 +1,31 @@
 name: Parse
+# parse-descriptions (from Pokecord-Module) -> pull shop data from the private Module repo with a short-lived,
+# read-only token from the "Pokecord Asset Pipeline" GitHub App, regenerate descriptions/ and commit it.
 on:
   repository_dispatch:
     types: [parse-descriptions]
+permissions:
+  contents: write # commit descriptions/
 jobs:
   parse:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
-      - name: Pull shop data
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Token for Pokecord-Module (read-only)
+        id: app
+        uses: actions/create-github-app-token@64ab729a6294000f5aa4a4bc0b73d1f32bc45510 # v3.3.0
+        with:
+          client-id: ${{ vars.PIPELINE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.PIPELINE_APP_PRIVATE_KEY }}
+          repositories: Pokecord-Module
+          permission-contents: read
+      - name: Pull shop data and exceptions from Pokecord-Module
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
         run: |
-            curl -X GET -H "Accept: application/vnd.github.raw+json" \
-            -H "Authorization: token ${{ secrets.PAT }}" \
-            https://raw.githubusercontent.com/Pokecord-Official/Pokecord-Module/master/src/shop.json \
-            -o shop.json
-      - name: Pull shop exceptions
-        run: |
-            curl -X GET -H "Accept: application/vnd.github.raw+json" \
-            -H "Authorization: token ${{ secrets.PAT }}" \
-            https://raw.githubusercontent.com/Pokecord-Official/Pokecord-Module/master/src/shopExceptions.json \
-            -o shopExceptions.json
+          gh api -H "Accept: application/vnd.github.raw+json" repos/Pokecord-Official/Pokecord-Module/contents/src/shop.json > shop.json
+          gh api -H "Accept: application/vnd.github.raw+json" repos/Pokecord-Official/Pokecord-Module/contents/src/shopExceptions.json > shopExceptions.json
       - name: Run script
         run: node index.js
       - name: Commit Changes
